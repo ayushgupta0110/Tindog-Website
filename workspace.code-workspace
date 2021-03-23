@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Web Development by Apna College"
+		},
+		{
+			"path": "..\\..\\C++ by Apna College"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web Development by Apna College",
+		"git.ignoreLimitWarning": true
+	}
+}
